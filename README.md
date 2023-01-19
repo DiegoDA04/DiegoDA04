@@ -9,13 +9,11 @@ Just an ordinary software engineering student.
 
 #### 🧮 Stats:
 
-<div>
-  <a href="https://github.com/DiegoDA04/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=diegoda04&show_icons=true&locale=en&theme=dark" alt="diegoda04" height="180em"/>
-  </a>
-  <a href="https://github.com/DiegoDA04/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoda04&show_icons=true&locale=en&layout=compact&theme=dark" alt="diegoda04" height="180em"/>
-  </a>
+<div align="center>
+ <a href="https://github.com/DiegoDA04/DiegoDA04"> 
+ <img src="https://github-readme-stats.vercel.app/api?username=diegoda04&show_icons=true&locale=en&theme=dark" alt="diegoda04" height="180em"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoda04&show_icons=true&locale=en&layout=compact&theme=dark" alt="diegoda04" height="180em"/>
+ </a>
 </div>
 
 #### 🧰 Languages and Tools:  
