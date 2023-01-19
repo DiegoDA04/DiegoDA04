@@ -11,9 +11,11 @@ Just an ordinary software engineering student.
 
 <div>
   <a href="https://github.com/DiegoDA04/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=diegoda04&show_icons=true&theme=dark" height="180em"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=diegoda04&show_icons=true&locale=en&theme=dark" alt="diegoda04" height="180em"/>
   </a>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoda04&layout=compact&langs_count=7&theme=dark" height="180em"/>
+  <a href="https://github.com/DiegoDA04/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoda04&show_icons=true&locale=en&layout=compact&theme=dark" alt="diegoda04" height="180em"/>
+  </a>
 </div>
 
 #### 🧰 Languages and Tools:  
