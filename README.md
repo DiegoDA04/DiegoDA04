@@ -24,5 +24,14 @@ Just an ordinary software engineering student.
   </a>
 </p>
 
+#### 📫 Contact me: 
+
+<p align="left">
+        <a href="https://www.linkedin.com/in/diego-de-la-cruz-arellano-46877120a/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="Diego's LinkedIn">
+    </a>
+</p>
+
 
 
