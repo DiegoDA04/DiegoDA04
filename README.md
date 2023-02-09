@@ -29,8 +29,10 @@ Just an ordinary software engineering student.
 <p align="left">
         <a href="https://www.linkedin.com/in/diego-de-la-cruz-arellano-46877120a/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="Diego's LinkedIn">
-    </a>
+            alt="Diego's LinkedIn"></a>
+        <a href="https://www.youtube.com/channel/UCjGrtXI8kxHkM18DDTZbLQw">
+        <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
+            alt="Diego's LinkedIn"></a>
 </p>
 
 
