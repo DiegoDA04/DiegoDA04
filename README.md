@@ -20,7 +20,7 @@ Just an ordinary software engineering student.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,html,css,javascript,typescript,tailwind,git,github,angular,spring,mysql,vscode,visualstudio,idea,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,html,css,javascript,typescript,tailwind,scss,git,github,angular,spring,mysql,vscode,visualstudio,idea,figma&perline=8" />
   </a>
 </p>
 
