@@ -1,6 +1,6 @@
 <h3> Hi! , I'm Diego <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="24" /></h3>
 
-Just an ordinary software engineering student.  
+Just an ordinary software engineering student. I hope the projects I do serve you. :)
   
 #### 👨‍💻 About me:
 - 🔭 I’m currently working as **Freelancer**
