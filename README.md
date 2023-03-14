@@ -27,6 +27,10 @@ Just an ordinary software engineering student. I hope the projects I do serve yo
 #### 📫 Contact me: 
 
 <p align="left">
+        <a>
+        <img src="https://img.shields.io/badge/-AntonioDC%237451-404EED?style=for-the-badge&logo=Discord&logoColor=white"
+            alt="Diego's Discord">
+        </a>
         <a href="https://www.linkedin.com/in/diego-de-la-cruz-arellano-46877120a/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Diego's LinkedIn"></a>
