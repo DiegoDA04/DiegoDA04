@@ -4,8 +4,8 @@ Just an ordinary software engineering student. I hope the projects I do serve yo
   
 #### 👨‍💻 About me:
 - 🔭 I’m currently working as **Freelancer**
-- 🌱 I’m currently learning **Flutter and Python**
-- 👯 I’m looking to collaborate on **Web Projects**
+- 🌱 I’m currently learning **Unit Tests**
+- 👯 I’m looking to collaborate on **Web or Mobile Applications**
 
 #### 🧮 Stats:
 
