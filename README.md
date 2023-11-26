@@ -20,7 +20,7 @@ Just an ordinary software engineering student. I hope the projects I do serve yo
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,html,css,javascript,typescript,tailwind,scss,git,github,angular,spring,mysql,vscode,visualstudio,idea,figma,androidstudio,flutter,dart&perline=10" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,html,css,javascript,typescript,tailwind,scss,git,github,angular,spring,mysql,vscode,visualstudio,idea,figma,androidstudio,flutter,dart,docker,kubernetes&perline=10" />
   </a>
 </p>
 
