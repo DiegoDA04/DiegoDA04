@@ -4,7 +4,7 @@ Just an ordinary software engineering student. I hope the projects I do serve yo
   
 #### 👨‍💻 About me:
 - 🔭 I’m currently working as **Freelancer**
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **DevOps (Docker & Kubernetes)**
 - 👯 I’m looking to collaborate on **Mobile applicacion or Restful API**
 
 #### 🧮 Stats:
